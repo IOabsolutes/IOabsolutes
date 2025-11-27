@@ -1,5 +1,5 @@
 # 💫 About Me:
-Python Backend Engineer with 5+ years of experience. <br>
+Python Backend Engineer with 6 years of experience. <br>
 
 
 # 💻 Tech Stack:
